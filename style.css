@@ -1,12 +1,16 @@
 html {
     background-color: #000000;
+    
+    
   }
+  
   body {
     width: 600px;
     margin: 0 auto;
     background-color: #27231d;
     padding: 0 60px 200px 60px;
     border: 5px solid black;
+    font-family: 'Lato', sans-serif;
   }
   .button {
           background-color: #1a961f; /* Green */
@@ -20,9 +24,10 @@ html {
           cursor: pointer;
   }
   p, h1, h2, h3, h4, h5{
-      font-family: Georgia, 'Times New Roman', Times, serif;
+      /*font-family: Georgia, 'Times New Roman', Times, serif; */
       color:#1a961f; /* Green */
     }
     #Linkedin{
-        color: red;
+        color: #052580;
+        ;
     }
