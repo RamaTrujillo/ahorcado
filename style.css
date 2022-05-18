@@ -1,0 +1,28 @@
+html {
+    background-color: #000000;
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #27231d;
+    padding: 0 60px 200px 60px;
+    border: 5px solid black;
+  }
+  .button {
+          background-color: #1a961f; /* Green */
+          border: rgb(0, 0, 0);
+          padding: 15px 80px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-size: 16px;
+          margin: 4px 2px;
+          cursor: pointer;
+  }
+  p, h1, h2, h3, h4, h5{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color:#1a961f; /* Green */
+    }
+    #Linkedin{
+        color: red;
+    }
